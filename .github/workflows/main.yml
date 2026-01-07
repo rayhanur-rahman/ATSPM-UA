@@ -1,0 +1,2 @@
+- name: GitHub Advanced Security API to CSV
+  uses: advanced-security/ghas-to-csv@v3.0.4
